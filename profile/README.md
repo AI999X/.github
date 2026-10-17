@@ -13,7 +13,7 @@ including how often it is wrong — and refuses rather than guesses where it can
 
 | Release | What it does |
 |---|---|
-| [physics-ai999x](https://github.com/AI999X/physics-ai999x) · [🤗](https://huggingface.co/AI999X/physics-ai999x) | Offline, verified physics solver: 148 certified capabilities, step-by-step answers with units and LaTeX, 365 exact ONNX formula graphs |
+| [physics-ai999x](https://github.com/AI999X/physics-ai999x) · [🤗](https://huggingface.co/AI999X/physics-ai999x) | Offline, verified physics solver: 148 certified capabilities, step-by-step answers with units and LaTeX, 365 exact ONNX formula graphs, and a 33M-parameter ONNX decision model that answers free-form questions only through a verification gate (0 wrong on held-out questions) |
 | [algebra-ai999x](https://github.com/AI999X/algebra-ai999x) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) | Equations up to quartics, systems, inequalities, logarithms, sequences, matrices and proofs, plus a 33M-parameter ONNX decision model that reads free-form questions (0 wrong on 364 held-out answers) |
 
 `pip install physics-ai999x algebra-ai999x`
