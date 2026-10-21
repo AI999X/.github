@@ -5,23 +5,17 @@ self-improving systems, and open models across every field of AI — language, v
 time series, reinforcement learning and robotics, graphs, and science and mathematics. Our models are compact enough
 to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
-### Models
+### 2 open models — and counting
 
-| Model | What it does |
+**Natural language processing** 2
+
+| Newest | Task |
 |---|---|
-| [physics-ai999x](https://github.com/AI999X/physics-ai999x) · [🤗](https://huggingface.co/AI999X/physics-ai999x) | Physics questions in plain English, solved step by step with units and LaTeX; Python package, ONNX formula graphs and a 33M-parameter ONNX reading model |
-| [algebra-ai999x](https://github.com/AI999X/algebra-ai999x) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) | Equations, systems, inequalities, logarithms, sequences, matrices and proofs; Python package, ONNX formula graphs and a 33M-parameter ONNX reading model |
+| [physics-ai999x](https://www.ai999x.com/models/physics-ai999x/) · [🤗](https://huggingface.co/AI999X/physics-ai999x) · [GitHub](https://github.com/AI999X/physics-ai999x) | Token Classification |
+| [algebra-ai999x](https://www.ai999x.com/models/algebra-ai999x/) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) · [GitHub](https://github.com/AI999X/algebra-ai999x) | Token Classification |
 
-`pip install physics-ai999x algebra-ai999x` · Browse and filter every model at [ai999x.com/models](https://www.ai999x.com/models/)
+Browse, search and filter every model at **[ai999x.com/models](https://www.ai999x.com/models/)**.
 
-### Coming next
-
-Mathematics, chemistry and the sciences · language understanding and generation · vision · speech and audio ·
-document and multimodal models · tabular and time-series forecasting · robotics and agents · graph learning.
-
-**Dawn of recursive intelligence** — follow along: [ai999x.com](https://www.ai999x.com) ·
-[Hugging Face](https://huggingface.co/AI999X) · support: [support@ai999x.com](mailto:support@ai999x.com) ·
-partnerships: [ibnuljaiffarabi@ai999x.com](mailto:ibnuljaiffarabi@ai999x.com) ·
-[Support the work on Buy Me a Coffee ☕](https://buymeacoffee.com/ibnuljaiffarabi)
+**Dawn of recursive intelligence** — follow along: [ai999x.com](https://www.ai999x.com) · [Hugging Face](https://huggingface.co/AI999X) · support: [support@ai999x.com](mailto:support@ai999x.com) · partnerships: [ibnuljaiffarabi@ai999x.com](mailto:ibnuljaiffarabi@ai999x.com) · [Support the work on Buy Me a Coffee ☕](https://buymeacoffee.com/ibnuljaiffarabi)
 
 Created and engineered by **Ibnul Jaif Farabi**.
