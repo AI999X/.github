@@ -5,12 +5,13 @@ self-improving systems, and open models across every field of AI — language, v
 time series, reinforcement learning and robotics, graphs, and science and mathematics. Our models are compact enough
 to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
-### 2 open models — and counting
+### 3 open models — and counting
 
-**Natural language processing** 2
+**Natural language processing** 2 · **Other** 1
 
 | Newest | Task |
 |---|---|
+| [mechanics-ai999x](https://www.ai999x.com/models/mechanics-ai999x/) · [🤗](https://huggingface.co/AI999X/mechanics-ai999x) · [GitHub](https://github.com/AI999X/mechanics-ai999x) | Model |
 | [physics-ai999x](https://www.ai999x.com/models/physics-ai999x/) · [🤗](https://huggingface.co/AI999X/physics-ai999x) · [GitHub](https://github.com/AI999X/physics-ai999x) | Token Classification |
 | [algebra-ai999x](https://www.ai999x.com/models/algebra-ai999x/) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) · [GitHub](https://github.com/AI999X/algebra-ai999x) | Token Classification |
 
