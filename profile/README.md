@@ -1,31 +1,27 @@
 ## Welcome to AI999X Labs 👋
 
-**AI999X builds verifiable AI**: models and engines whose answers are checked before you see them. We are building a
-**model factory** that produces compact, open models across the whole range of AI tasks — language, vision, audio,
-multimodal, tabular and time series, reinforcement learning and robotics, graphs, and science and mathematics — each
-with measured accuracy, honest limits and a small, fast deployment (ONNX on any CPU, Safetensors for training).
+**The Future Is Self-Improving.** AI999X Labs is a research lab inventing the intelligence that invents tomorrow:
+self-improving systems, and open models across every field of AI — language, vision, audio, multimodal, tabular and
+time series, reinforcement learning and robotics, graphs, and science and mathematics. Our models are compact enough
+to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
-**How we work:** a teacher model writes candidate data; deterministic engines, libraries and test suites check every
-record; only what passes becomes a dataset, a model or a capability. Every release ships with its evaluation —
-including how often it is wrong — and refuses rather than guesses where it cannot verify an answer.
+### Models
 
-### First releases (Apache-2.0)
-
-| Release | What it does |
+| Model | What it does |
 |---|---|
-| [physics-ai999x](https://github.com/AI999X/physics-ai999x) · [🤗](https://huggingface.co/AI999X/physics-ai999x) | Offline, verified physics solver: 148 certified capabilities, step-by-step answers with units and LaTeX, 365 exact ONNX formula graphs, and a 33M-parameter ONNX decision model that answers free-form questions only through a verification gate (0 wrong on held-out questions) |
-| [algebra-ai999x](https://github.com/AI999X/algebra-ai999x) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) | Equations up to quartics, systems, inequalities, logarithms, sequences, matrices and proofs, plus a 33M-parameter ONNX decision model that reads free-form questions (0 wrong on 364 held-out answers) |
+| [physics-ai999x](https://github.com/AI999X/physics-ai999x) · [🤗](https://huggingface.co/AI999X/physics-ai999x) | Physics questions in plain English, solved step by step with units and LaTeX; Python package, ONNX formula graphs and a 33M-parameter ONNX reading model |
+| [algebra-ai999x](https://github.com/AI999X/algebra-ai999x) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) | Equations, systems, inequalities, logarithms, sequences, matrices and proofs; Python package, ONNX formula graphs and a 33M-parameter ONNX reading model |
 
-`pip install physics-ai999x algebra-ai999x`
+`pip install physics-ai999x algebra-ai999x` · Browse and filter every model at [ai999x.com/models](https://www.ai999x.com/models/)
 
-### Roadmap
+### Coming next
 
-Mathematics (geometry to calculus, statistics and linear algebra) · chemistry and the other sciences · text
-classification, token classification, question answering, summarization, translation and sentence similarity ·
-image classification, object detection, segmentation and OCR · speech recognition and audio classification ·
-document and visual question answering · tabular classification, regression and time-series forecasting ·
-reinforcement learning and robotics · graph machine learning. Each arrives when it measures up, with its numbers.
+Mathematics, chemistry and the sciences · language understanding and generation · vision · speech and audio ·
+document and multimodal models · tabular and time-series forecasting · robotics and agents · graph learning.
 
-Created and engineered by **Ibnul Jaif Farabi** · [ai999x.com](https://ai999x.com) · [Hugging Face](https://huggingface.co/AI999X) ·
-[ibnuljaiffarabi@ai999x.com](mailto:ibnuljaiffarabi@ai999x.com) ·
+**Dawn of recursive intelligence** — follow along: [ai999x.com](https://www.ai999x.com) ·
+[Hugging Face](https://huggingface.co/AI999X) · support: [support@ai999x.com](mailto:support@ai999x.com) ·
+partnerships: [ibnuljaiffarabi@ai999x.com](mailto:ibnuljaiffarabi@ai999x.com) ·
 [Support the work on Buy Me a Coffee ☕](https://buymeacoffee.com/ibnuljaiffarabi)
+
+Created and engineered by **Ibnul Jaif Farabi**.
