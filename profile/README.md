@@ -11,9 +11,9 @@ to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
 | Newest | Task |
 |---|---|
+| [physics-ai999x](https://www.ai999x.com/models/physics-ai999x/) · [🤗](https://huggingface.co/AI999X/physics-ai999x) · [GitHub](https://github.com/AI999X/physics-ai999x) | Token Classification |
 | [algebra-ai999x](https://www.ai999x.com/models/algebra-ai999x/) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) · [GitHub](https://github.com/AI999X/algebra-ai999x) | Token Classification |
 | [mechanics-ai999x](https://www.ai999x.com/models/mechanics-ai999x/) · [🤗](https://huggingface.co/AI999X/mechanics-ai999x) · [GitHub](https://github.com/AI999X/mechanics-ai999x) | Model |
-| [physics-ai999x](https://www.ai999x.com/models/physics-ai999x/) · [🤗](https://huggingface.co/AI999X/physics-ai999x) · [GitHub](https://github.com/AI999X/physics-ai999x) | Token Classification |
 
 Browse, search and filter every model at **[ai999x.com/models](https://www.ai999x.com/models/)**.
 
