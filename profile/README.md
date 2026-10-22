@@ -5,15 +5,16 @@ self-improving systems, and open models across every field of AI — language, v
 time series, reinforcement learning and robotics, graphs, and science and mathematics. Our models are compact enough
 to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
-### 3 open models — and counting
+### 4 open models — and counting
 
-**Natural language processing** 2 · **Other** 1
+**Natural language processing** 4
 
 | Newest | Task |
 |---|---|
-| [physics-ai999x](https://www.ai999x.com/models/physics-ai999x/) · [🤗](https://huggingface.co/AI999X/physics-ai999x) · [GitHub](https://github.com/AI999X/physics-ai999x) | Token Classification |
-| [algebra-ai999x](https://www.ai999x.com/models/algebra-ai999x/) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) · [GitHub](https://github.com/AI999X/algebra-ai999x) | Token Classification |
-| [mechanics-ai999x](https://www.ai999x.com/models/mechanics-ai999x/) · [🤗](https://huggingface.co/AI999X/mechanics-ai999x) · [GitHub](https://github.com/AI999X/mechanics-ai999x) | Model |
+| [mechanics-ai999x](https://www.ai999x.com/models/mechanics-ai999x/) · [🤗](https://huggingface.co/AI999X/mechanics-ai999x) · [GitHub](https://github.com/AI999X/mechanics-ai999x) | Sentence Similarity |
+| [algebra-ai999x](https://www.ai999x.com/models/algebra-ai999x/) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) · [GitHub](https://github.com/AI999X/algebra-ai999x) | Sentence Similarity |
+| [physics-ai999x](https://www.ai999x.com/models/physics-ai999x/) · [🤗](https://huggingface.co/AI999X/physics-ai999x) · [GitHub](https://github.com/AI999X/physics-ai999x) | Sentence Similarity |
+| [ai999x-encoder](https://www.ai999x.com/models/ai999x-encoder/) · [🤗](https://huggingface.co/AI999X/ai999x-encoder) | Sentence Similarity |
 
 Browse, search and filter every model at **[ai999x.com/models](https://www.ai999x.com/models/)**.
 
