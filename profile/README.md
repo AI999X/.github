@@ -5,12 +5,13 @@ self-improving systems, and open models across every field of AI — language, v
 time series, reinforcement learning and robotics, graphs, and science and mathematics. Our models are compact enough
 to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
-### 4 open models — and counting
+### 5 open models — and counting
 
-**Natural language processing** 4
+**Natural language processing** 5
 
 | Newest | Task |
 |---|---|
+| [linear-algebra-ai999x](https://www.ai999x.com/models/linear-algebra-ai999x/) · [🤗](https://huggingface.co/AI999X/linear-algebra-ai999x) · [GitHub](https://github.com/AI999X/linear-algebra-ai999x) | Sentence Similarity |
 | [mechanics-ai999x](https://www.ai999x.com/models/mechanics-ai999x/) · [🤗](https://huggingface.co/AI999X/mechanics-ai999x) · [GitHub](https://github.com/AI999X/mechanics-ai999x) | Sentence Similarity |
 | [algebra-ai999x](https://www.ai999x.com/models/algebra-ai999x/) · [🤗](https://huggingface.co/AI999X/algebra-ai999x) · [GitHub](https://github.com/AI999X/algebra-ai999x) | Sentence Similarity |
 | [physics-ai999x](https://www.ai999x.com/models/physics-ai999x/) · [🤗](https://huggingface.co/AI999X/physics-ai999x) · [GitHub](https://github.com/AI999X/physics-ai999x) | Sentence Similarity |
