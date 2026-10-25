@@ -63,7 +63,7 @@ to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
 | Model | What it covers | Capabilities | Tasks | Links |
 |---|---|---:|---|---|
-| **[Economics and Finance](https://huggingface.co/AI999X/economics-finance-ai999x)**<br>`economics-finance-ai999x` 1.0.0 | Time value of money, loans and annuities, bonds, stocks and options, portfolio theory, risk measures, actuarial mathematics, microeconomics, macroeconomics and econometrics | 96 | Question Answering, Token Classification, Text Classification, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/economics-finance-ai999x)<br>[Website](https://www.ai999x.com/models/economics-finance-ai999x/) |
+| **[Economics and Finance](https://github.com/AI999X/economics-finance-ai999x)**<br>`economics-finance-ai999x` 1.0.0 | Time value of money, loans and annuities, bonds, stocks and options, portfolio theory, risk measures, actuarial mathematics, microeconomics, macroeconomics and econometrics | 96 | Question Answering, Token Classification, Text Classification, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/economics-finance-ai999x)<br>[GitHub](https://github.com/AI999X/economics-finance-ai999x)<br>[Website](https://www.ai999x.com/models/economics-finance-ai999x/) |
 
 #### Geospatial — 1 model, 99 capabilities
 
