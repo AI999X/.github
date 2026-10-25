@@ -69,7 +69,7 @@ to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
 | Model | What it covers | Capabilities | Tasks | Links |
 |---|---|---:|---|---|
-| **[Geospatial Analytics](https://huggingface.co/AI999X/geospatial-analytics-ai999x)**<br>`geospatial-analytics-ai999x` 1.0.0 | Map projections and coordinates, geodesic distance and area, spatial statistics, remote-sensing indices, solar position and terrain, and urban and network analysis | 99 | Question Answering, Token Classification, Text Classification, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/geospatial-analytics-ai999x)<br>[Website](https://www.ai999x.com/models/geospatial-analytics-ai999x/) |
+| **[Geospatial Analytics](https://github.com/AI999X/geospatial-analytics-ai999x)**<br>`geospatial-analytics-ai999x` 1.0.0 | Map projections and coordinates, geodesic distance and area, spatial statistics, remote-sensing indices, solar position and terrain, and urban and network analysis | 99 | Question Answering, Token Classification, Text Classification, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/geospatial-analytics-ai999x)<br>[GitHub](https://github.com/AI999X/geospatial-analytics-ai999x)<br>[Website](https://www.ai999x.com/models/geospatial-analytics-ai999x/) |
 
 #### Data Science & Machine Learning — 1 model, 107 capabilities
 
