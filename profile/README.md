@@ -75,7 +75,7 @@ to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
 | Model | What it covers | Capabilities | Tasks | Links |
 |---|---|---:|---|---|
-| **[Data Science and Machine Learning](https://github.com/AI999X/data-science-ml-ai999x)**<br>`data-science-ml-ai999x` 1.0.1 | Evaluation metrics, loss functions and gradients, classical machine-learning algorithms, dimensionality reduction, cross-validation, information theory and neural-network arithmetic | 107 | Question Answering, Token Classification, Text Classification, Tabular Classification, Tabular Regression, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/data-science-ml-ai999x)<br>[GitHub](https://github.com/AI999X/data-science-ml-ai999x)<br>[PyPI](https://pypi.org/project/data-science-ml-ai999x/)<br>[Website](https://www.ai999x.com/models/data-science-ml-ai999x/) |
+| **[Data Science and Machine Learning](https://github.com/AI999X/data-science-ml-ai999x)**<br>`data-science-ml-ai999x` 1.0.2 | Evaluation metrics, loss functions and gradients, classical machine-learning algorithms, dimensionality reduction, cross-validation, information theory and neural-network arithmetic | 107 | Question Answering, Token Classification, Text Classification, Tabular Classification, Tabular Regression, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/data-science-ml-ai999x)<br>[GitHub](https://github.com/AI999X/data-science-ml-ai999x)<br>[PyPI](https://pypi.org/project/data-science-ml-ai999x/)<br>[Website](https://www.ai999x.com/models/data-science-ml-ai999x/) |
 
 #### Shared components
 
