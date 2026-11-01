@@ -5,11 +5,11 @@ self-improving systems, and open models across every field of AI — language, v
 time series, reinforcement learning and robotics, graphs, and science and mathematics. Our models are compact enough
 to run anywhere: ONNX on any CPU, Safetensors for research and fine-tuning.
 
-### 36 open models — and counting
+### 37 open models — and counting
 
-**35 scientific models · 3,070 capabilities · 7 fields — and growing.** Each is a compact model that answers questions in its field — in plain English or as a typed call — with exact answers, steps, units and LaTeX, fully offline on any CPU, and says so when it cannot answer instead of guessing.
+**36 scientific models · 3,166 capabilities · 7 fields — and growing.** Each is a compact model that answers questions in its field — in plain English or as a typed call — with exact answers, steps, units and LaTeX, fully offline on any CPU, and says so when it cannot answer instead of guessing.
 
-**Mathematics & Statistics** 10 · **Physical Sciences** 6 · **Engineering** 13 · **Life Sciences** 2 · **Economics & Finance** 2 · **Geospatial** 1 · **Data Science & Machine Learning** 1
+**Mathematics & Statistics** 10 · **Physical Sciences** 6 · **Engineering** 13 · **Life Sciences** 3 · **Economics & Finance** 2 · **Geospatial** 1 · **Data Science & Machine Learning** 1
 
 ### Run them your way
 
@@ -66,12 +66,13 @@ Install guide, checksums and every model's program: **[desktop app & command lin
 | **[Thermofluids](https://github.com/AI999X/thermofluids-ai999x)**<br>`thermofluids-ai999x` 1.0.3 | Fluid statics and dynamics, pipe flow, boundary layers, aerodynamics, heat conduction, convection and radiation, heat exchangers, thermodynamic cycles, psychrometrics and combustion | 99 | Question Answering, Token Classification, Text Classification, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/thermofluids-ai999x)<br>[GitHub](https://github.com/AI999X/thermofluids-ai999x)<br>[Website](https://www.ai999x.com/models/thermofluids-ai999x/) |
 | **[Transportation](https://github.com/AI999X/transportation-ai999x)**<br>`transportation-ai999x` 1.0.3 | Vehicle dynamics, braking and stopping distances, traffic flow, highway geometry, railway operations, route planning and transit capacity | 77 | Question Answering, Token Classification, Text Classification, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/transportation-ai999x)<br>[GitHub](https://github.com/AI999X/transportation-ai999x)<br>[PyPI](https://pypi.org/project/transportation-ai999x/)<br>[Website](https://www.ai999x.com/models/transportation-ai999x/) |
 
-#### Life Sciences — 2 models, 169 capabilities
+#### Life Sciences — 3 models, 265 capabilities
 
 | Model | What it covers | Capabilities | Tasks | Links |
 |---|---|---:|---|---|
 | **[Biomedical Science](https://github.com/AI999X/biomedical-science-ai999x)**<br>`biomedical-science-ai999x` 1.0.3 | Pharmacokinetics and dosing models, epidemic models, diagnostic test statistics, survival analysis, biomechanics, neuron models and medical-imaging physics (quantitative only, no clinical advice) | 86 | Question Answering, Token Classification, Text Classification, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/biomedical-science-ai999x)<br>[GitHub](https://github.com/AI999X/biomedical-science-ai999x)<br>[PyPI](https://pypi.org/project/biomedical-science-ai999x/)<br>[Website](https://www.ai999x.com/models/biomedical-science-ai999x/) |
 | **[Computational Biology](https://github.com/AI999X/computational-biology-ai999x)**<br>`computational-biology-ai999x` 1.0.3 | DNA and protein sequences, alignment, molecular weights, genetics and population genetics, phylogenetics, enzyme kinetics, metabolic and population models, and ecology | 83 | Question Answering, Token Classification, Text Classification, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/computational-biology-ai999x)<br>[GitHub](https://github.com/AI999X/computational-biology-ai999x)<br>[Website](https://www.ai999x.com/models/computational-biology-ai999x/) |
+| **[Human Physiology](https://github.com/AI999X/human-physiology-ai999x)**<br>`human-physiology-ai999x` 1.0.0 | Cardiac output, blood pressure, vascular resistance and Poiseuille flow, lung volumes, ventilation and the alveolar gas equation, oxygen content and binding, acid-base, renal clearance and eGFR, Nernst and Goldman-Hodgkin-Katz potentials, cable properties, body composition and metabolic rate (computed values, not medical advice) | 96 | Question Answering, Sentence Similarity, Feature Extraction | [Hugging Face](https://huggingface.co/AI999X/human-physiology-ai999x)<br>[GitHub](https://github.com/AI999X/human-physiology-ai999x)<br>[Website](https://www.ai999x.com/models/human-physiology-ai999x/) |
 
 #### Economics & Finance — 2 models, 187 capabilities
 
