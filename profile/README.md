@@ -14,7 +14,7 @@ fine-tuning. Next: models that improve themselves and do their own research, ful
 
 | Way to run them | What you get | Get it |
 |---|---|---|
-| **AI999X desktop app** 1.6.5 | every model in one app for Windows and Linux: search, ask in words, forms, live figures, explanations, offline | [Windows](https://github.com/AI999X/ai999x-desktop/releases/download/v1.6.5/ai999x-1.6.5-windows-x86_64.zip) · [Linux](https://github.com/AI999X/ai999x-desktop/releases/download/v1.6.5/ai999x-1.6.5-linux-x86_64.tar.gz) |
+| **AI999X desktop app** 1.6.6 | every model in one app for Windows and Linux: search, ask in words, forms, live figures, explanations, offline | [Windows](https://github.com/AI999X/ai999x-desktop/releases/download/v1.6.6/ai999x-1.6.6-windows-x86_64.zip) · [Linux](https://github.com/AI999X/ai999x-desktop/releases/download/v1.6.6/ai999x-1.6.6-linux-x86_64.tar.gz) |
 | **Command line** | one native program per model (Rust), for terminals and scripts, offline, no Python | [Windows](https://github.com/AI999X/ai999x-desktop/releases/download/v1.6.4/ai999x-cli-1.6.4-windows-x86_64.zip) · [Linux](https://github.com/AI999X/ai999x-desktop/releases/download/v1.6.4/ai999x-cli-1.6.4-linux-x86_64.tar.gz) |
 | **In your browser** | compute on any model page, nothing to install (WebAssembly) | [ai999x.com/models](https://www.ai999x.com/models/) |
 | **Python** | the same capabilities in your own code | `pip install <model>-ai999x` |
